@@ -335,6 +335,12 @@
 			"revision": "4239b77079c7b5d1243b7b4736304ce8ddb6f0f2"
 		},
 		{
+			"checksumSHA1": "uUzIcEqMK3TgBylPKg04v+PTWDk=",
+			"path": "github.com/aws/aws-sdk-go",
+			"revision": "09f8dd1eb5e719dc370b432d3d6d8f86e5bf6dbe",
+			"revisionTime": "2016-10-17T19:35:59Z"
+		},
+		{
 			"checksumSHA1": "nqw2Qn5xUklssHTubS5HDvEL9L4=",
 			"path": "github.com/bgentry/go-netrc/netrc",
 			"revision": "9fd32a8b3d3d3f9d43c341bfe098430e07609480",
